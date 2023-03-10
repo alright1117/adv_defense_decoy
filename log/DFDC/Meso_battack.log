@@ -1,0 +1,9 @@
+2023-03-10 11:02:35,732 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2023-03-10 11:02:35,732 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 5.
+2023-03-10 11:02:35,755 - root - INFO - Model MesoInception.
+2023-03-10 11:02:37,666 - root - INFO - After Attack
+2023-03-10 11:05:32,775 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2023-03-10 11:05:32,775 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 5.
+2023-03-10 11:05:32,812 - root - INFO - Model MesoInception.
+2023-03-10 11:05:34,724 - root - INFO - After Attack
+2023-03-10 11:15:30,677 - root - INFO - Testing: F1 Score 0.1598, Accuracy 0.1700, AUC 0.0884.

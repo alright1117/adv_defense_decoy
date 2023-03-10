@@ -1,0 +1,20 @@
+2022-02-23 15:24:07,701 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-23 15:24:07,701 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-23 15:24:07,701 - root - INFO - Eta in hypothesis testing is 0.900.
+2022-02-23 15:24:07,714 - root - INFO - Model XDeception.
+2022-02-23 15:34:26,229 - root - INFO - Accuracy 0.9871, AUC 0.9991
+2022-02-23 15:55:07,957 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-23 15:55:07,958 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-23 15:55:07,958 - root - INFO - Eta in hypothesis testing is 0.900.
+2022-02-23 15:55:07,964 - root - INFO - Model XDeception.
+2022-02-23 23:40:41,152 - root - INFO - Accuracy 0.9314, AUC 0.9967
+2022-02-24 18:39:01,026 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-24 18:39:01,026 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-24 18:39:01,026 - root - INFO - Eta in hypothesis testing is 0.700.
+2022-02-24 18:39:01,062 - root - INFO - Model XDeception.
+2022-02-24 18:49:18,677 - root - INFO - Accuracy 0.9714, AUC 0.9964
+2022-02-24 19:10:01,570 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-24 19:10:01,570 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-24 19:10:01,570 - root - INFO - Eta in hypothesis testing is 0.700.
+2022-02-24 19:10:01,596 - root - INFO - Model XDeception.
+2022-02-25 02:49:51,966 - root - INFO - Accuracy 0.9600, AUC 0.9899

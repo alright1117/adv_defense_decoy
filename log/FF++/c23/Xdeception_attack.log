@@ -1,0 +1,34 @@
+2022-02-19 00:36:38,171 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:36:38,171 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 5.
+2022-02-19 00:36:38,196 - root - INFO - Model XDeception.
+2022-02-19 00:36:41,314 - root - INFO - Before Attack
+2022-02-19 00:37:39,508 - root - INFO - Testing: F1_WSRT 0.2435, Acc_WSRT 0.2571, AUC_WSRT 0.7102, F1_SP 0.4137, Acc_SP 0.4171, AUC_SP 0.5940
+2022-02-19 00:37:39,508 - root - INFO - Accuracy with SP. Face2Face: 0.3286 Real: 0.8500 Deepfakes: 0.2643 FaceSwap: 0.4286 NeuralTextures: 0.2143
+2022-02-19 00:37:39,508 - root - INFO - Accuracy with WSRT. Face2Face: 0.1000 Real: 0.9786 Deepfakes: 0.0786 FaceSwap: 0.0714 NeuralTextures: 0.0571
+2022-02-19 00:37:39,508 - root - INFO - After Attack
+2022-02-19 00:41:10,963 - root - INFO - Testing: F1_WSRT 0.9956, Acc_WSRT 0.9971, AUC_WSRT 1.0000.
+2022-02-19 00:41:12,277 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:41:12,277 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 15.
+2022-02-19 00:41:12,295 - root - INFO - Model XDeception.
+2022-02-19 00:41:15,300 - root - INFO - After Attack
+2022-02-19 00:51:11,022 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 00:51:12,345 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:51:12,345 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 5.
+2022-02-19 00:51:12,364 - root - INFO - Model XDeception.
+2022-02-19 00:51:15,385 - root - INFO - After Attack
+2022-02-19 00:54:46,843 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 00:54:48,172 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:54:48,172 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 15.
+2022-02-19 00:54:48,196 - root - INFO - Model XDeception.
+2022-02-19 00:54:51,167 - root - INFO - After Attack
+2022-02-19 01:04:47,018 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 01:04:48,317 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 01:04:48,317 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 5.
+2022-02-19 01:04:48,335 - root - INFO - Model XDeception.
+2022-02-19 01:04:51,331 - root - INFO - After Attack
+2022-02-19 01:08:22,965 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 01:08:24,273 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 01:08:24,273 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 15.
+2022-02-19 01:08:24,293 - root - INFO - Model XDeception.
+2022-02-19 01:08:27,306 - root - INFO - After Attack
+2022-02-19 01:18:23,377 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.

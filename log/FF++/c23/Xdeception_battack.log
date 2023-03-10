@@ -1,0 +1,30 @@
+2022-02-19 20:05:33,272 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-19 20:05:33,272 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 15.
+2022-02-19 20:05:33,298 - root - INFO - Model XDeception.
+2022-02-19 20:05:36,399 - root - INFO - After Attack
+2022-02-19 22:12:47,982 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 22:12:49,297 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-19 22:12:49,297 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 30.
+2022-02-19 22:12:49,326 - root - INFO - Model XDeception.
+2022-02-19 22:12:52,421 - root - INFO - After Attack
+2022-02-20 02:26:52,758 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-20 02:26:54,155 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 02:26:54,155 - root - INFO - PGD attack with eps 0.024, alpha 0.0039, and iteration 15.
+2022-02-20 02:26:54,181 - root - INFO - Model XDeception.
+2022-02-20 02:26:57,298 - root - INFO - After Attack
+2022-02-20 04:33:55,196 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-20 04:33:56,589 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 04:33:56,590 - root - INFO - PGD attack with eps 0.024, alpha 0.0039, and iteration 30.
+2022-02-20 04:33:56,616 - root - INFO - Model XDeception.
+2022-02-20 04:33:59,702 - root - INFO - After Attack
+2022-02-20 08:48:31,205 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-20 08:48:32,626 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 08:48:32,626 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 15.
+2022-02-20 08:48:32,652 - root - INFO - Model XDeception.
+2022-02-20 08:48:35,759 - root - INFO - After Attack
+2022-02-20 10:55:18,889 - root - INFO - Testing: F1_WSRT 0.9925, Acc_WSRT 0.9952, AUC_WSRT 1.0000.
+2022-02-20 10:55:20,216 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 10:55:20,216 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 30.
+2022-02-20 10:55:20,242 - root - INFO - Model XDeception.
+2022-02-20 10:55:23,344 - root - INFO - After Attack
+2022-02-20 15:09:01,814 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.

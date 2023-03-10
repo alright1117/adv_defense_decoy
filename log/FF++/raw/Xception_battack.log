@@ -1,0 +1,30 @@
+2022-02-21 17:34:16,804 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-21 17:34:16,804 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 15.
+2022-02-21 17:34:16,836 - root - INFO - Model Xception.
+2022-02-21 17:34:20,141 - root - INFO - After Attack
+2022-02-21 19:47:41,946 - root - INFO - Testing: F1 Score 0.0187, Accuracy 0.0190, AUC 0.0000.
+2022-02-21 22:29:50,525 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-21 22:29:50,525 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 30.
+2022-02-21 22:29:50,558 - root - INFO - Model Xception.
+2022-02-21 22:29:53,968 - root - INFO - After Attack
+2022-02-22 02:54:54,995 - root - INFO - Testing: F1 Score 0.0047, Accuracy 0.0048, AUC 0.0000.
+2022-02-22 02:54:56,304 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-22 02:54:56,304 - root - INFO - PGD attack with eps 0.024, alpha 0.0039, and iteration 15.
+2022-02-22 02:54:56,340 - root - INFO - Model Xception.
+2022-02-22 02:54:59,488 - root - INFO - After Attack
+2022-02-22 05:00:48,544 - root - INFO - Testing: F1 Score 0.0411, Accuracy 0.0429, AUC 0.0000.
+2022-02-22 05:00:49,841 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-22 05:00:49,841 - root - INFO - PGD attack with eps 0.024, alpha 0.0039, and iteration 30.
+2022-02-22 05:00:49,877 - root - INFO - Model Xception.
+2022-02-22 05:00:53,020 - root - INFO - After Attack
+2022-02-22 09:12:33,792 - root - INFO - Testing: F1 Score 0.0047, Accuracy 0.0048, AUC 0.0000.
+2022-02-22 09:12:35,077 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-22 09:12:35,078 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 15.
+2022-02-22 09:12:35,113 - root - INFO - Model Xception.
+2022-02-22 09:12:38,297 - root - INFO - After Attack
+2022-02-22 11:17:57,579 - root - INFO - Testing: F1 Score 0.0909, Accuracy 0.1000, AUC 0.0000.
+2022-02-22 11:17:58,905 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-22 11:17:58,906 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 30.
+2022-02-22 11:17:58,942 - root - INFO - Model Xception.
+2022-02-22 11:18:02,115 - root - INFO - After Attack
+2022-02-22 15:29:29,263 - root - INFO - Testing: F1 Score 0.0094, Accuracy 0.0095, AUC 0.0000.

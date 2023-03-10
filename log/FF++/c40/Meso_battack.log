@@ -1,0 +1,16 @@
+2022-02-20 22:43:31,115 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 22:43:31,115 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 15.
+2022-02-20 22:43:31,141 - root - INFO - Model MesoInception.
+2022-02-20 22:43:34,147 - root - INFO - After Attack
+2022-02-20 22:52:22,526 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 22:52:22,526 - root - INFO - PGD attack with eps 0.016, alpha 0.0039, and iteration 30.
+2022-02-20 22:52:22,547 - root - INFO - Model MesoInception.
+2022-02-20 22:52:27,207 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 22:52:27,207 - root - INFO - PGD attack with eps 0.024, alpha 0.0039, and iteration 30.
+2022-02-20 22:52:27,225 - root - INFO - Model MesoInception.
+2022-02-20 22:52:31,678 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 22:52:31,678 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 15.
+2022-02-20 22:52:31,696 - root - INFO - Model MesoInception.
+2022-02-20 22:52:36,016 - root - INFO - Testing file: ./file/FF++_tests.txt.
+2022-02-20 22:52:36,016 - root - INFO - PGD attack with eps 0.032, alpha 0.0039, and iteration 30.
+2022-02-20 22:52:36,033 - root - INFO - Model MesoInception.

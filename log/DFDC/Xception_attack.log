@@ -1,0 +1,33 @@
+2022-02-16 22:18:59,013 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:18:59,013 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 5.
+2022-02-16 22:18:59,023 - root - INFO - Model Xception.
+2022-02-16 22:19:01,311 - root - INFO - Before Attack
+2022-02-16 22:19:14,206 - root - INFO - Testing: F1 Score 0.4592, Accuracy 0.5425, AUC 0.6640
+2022-02-16 22:19:14,206 - root - INFO -  Real: 0.9350 Fake: 0.1500
+2022-02-16 22:19:14,206 - root - INFO - After Attack
+2022-02-16 22:22:35,839 - root - INFO - Testing: F1 Score 0.3266, Accuracy 0.4850, AUC 0.0007.
+2022-02-16 22:22:36,925 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:22:36,925 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 15.
+2022-02-16 22:22:36,948 - root - INFO - Model Xception.
+2022-02-16 22:22:39,382 - root - INFO - After Attack
+2022-02-16 22:32:33,267 - root - INFO - Testing: F1 Score 0.2895, Accuracy 0.4075, AUC 0.0000.
+2022-02-16 22:32:34,367 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:32:34,367 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 5.
+2022-02-16 22:32:34,375 - root - INFO - Model Xception.
+2022-02-16 22:32:36,686 - root - INFO - After Attack
+2022-02-16 22:36:04,991 - root - INFO - Testing: F1 Score 0.1507, Accuracy 0.1775, AUC 0.0000.
+2022-02-16 22:36:06,083 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:36:06,083 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 15.
+2022-02-16 22:36:06,091 - root - INFO - Model Xception.
+2022-02-16 22:36:08,525 - root - INFO - After Attack
+2022-02-16 22:46:02,955 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 22:46:04,018 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:46:04,018 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 5.
+2022-02-16 22:46:04,029 - root - INFO - Model Xception.
+2022-02-16 22:46:06,368 - root - INFO - After Attack
+2022-02-16 22:49:34,577 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 22:49:35,642 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 22:49:35,642 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 15.
+2022-02-16 22:49:35,651 - root - INFO - Model Xception.
+2022-02-16 22:49:37,948 - root - INFO - After Attack
+2022-02-16 22:59:33,074 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.

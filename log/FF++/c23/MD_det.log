@@ -1,0 +1,10 @@
+2022-02-23 15:27:21,218 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-23 15:27:21,219 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-23 15:27:21,219 - root - INFO - Eta in hypothesis testing is 0.900.
+2022-02-23 15:27:21,236 - root - INFO - Model MesoDeception.
+2022-02-23 15:31:02,698 - root - INFO - Accuracy 0.9729, AUC 0.9986
+2022-02-23 18:36:05,894 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-23 18:36:05,894 - root - INFO - PGD attack detection with eps 0.031, alpha 0.004, and iteration 30.
+2022-02-23 18:36:05,894 - root - INFO - Eta in hypothesis testing is 0.900.
+2022-02-23 18:36:05,916 - root - INFO - Model MesoDeception.
+2022-02-23 21:37:03,609 - root - INFO - Accuracy 0.9700, AUC 0.9998

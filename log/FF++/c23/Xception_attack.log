@@ -1,0 +1,33 @@
+2022-02-18 23:52:16,281 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-18 23:52:16,281 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 5.
+2022-02-18 23:52:16,315 - root - INFO - Model Xception.
+2022-02-18 23:52:19,414 - root - INFO - Before Attack
+2022-02-18 23:52:47,533 - root - INFO - Testing: F1 Score 0.5008, Accuracy 0.5114, AUC 0.7845
+2022-02-18 23:52:47,533 - root - INFO -  FaceSwap: 0.7929 Deepfakes: 0.1857 NeuralTextures: 0.2143 Real: 0.9143 Face2Face: 0.4500
+2022-02-18 23:52:47,533 - root - INFO - After Attack
+2022-02-18 23:56:34,286 - root - INFO - Testing: F1 Score 0.4210, Accuracy 0.7271, AUC 0.0000.
+2022-02-18 23:56:35,584 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-18 23:56:35,584 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 15.
+2022-02-18 23:56:35,602 - root - INFO - Model Xception.
+2022-02-18 23:56:38,679 - root - INFO - After Attack
+2022-02-19 00:07:21,340 - root - INFO - Testing: F1 Score 0.2723, Accuracy 0.3743, AUC 0.0000.
+2022-02-19 00:07:22,667 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:07:22,667 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 5.
+2022-02-19 00:07:22,685 - root - INFO - Model Xception.
+2022-02-19 00:07:25,843 - root - INFO - After Attack
+2022-02-19 00:11:13,473 - root - INFO - Testing: F1 Score 0.0237, Accuracy 0.0243, AUC 0.0000.
+2022-02-19 00:11:14,746 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:11:14,746 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 15.
+2022-02-19 00:11:14,765 - root - INFO - Model Xception.
+2022-02-19 00:11:17,957 - root - INFO - After Attack
+2022-02-19 00:21:59,132 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-19 00:22:00,459 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:22:00,459 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 5.
+2022-02-19 00:22:00,477 - root - INFO - Model Xception.
+2022-02-19 00:22:03,690 - root - INFO - After Attack
+2022-02-19 00:25:51,195 - root - INFO - Testing: F1 Score 0.0028, Accuracy 0.0029, AUC 0.0000.
+2022-02-19 00:25:52,502 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 00:25:52,502 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 15.
+2022-02-19 00:25:52,521 - root - INFO - Model Xception.
+2022-02-19 00:25:55,754 - root - INFO - After Attack
+2022-02-19 00:36:36,845 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.

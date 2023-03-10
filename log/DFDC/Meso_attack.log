@@ -1,0 +1,33 @@
+2022-02-16 23:34:51,976 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:34:51,976 - root - INFO - PGD attack with eps 2.000, alpha 0.0039, and iteration 5.
+2022-02-16 23:34:51,984 - root - INFO - Model MesoInception.
+2022-02-16 23:34:54,004 - root - INFO - Before Attack
+2022-02-16 23:35:05,165 - root - INFO - Testing: F1 Score 0.4389, Accuracy 0.5000, AUC 0.5261
+2022-02-16 23:35:05,165 - root - INFO -  Real: 0.8300 Fake: 0.1700
+2022-02-16 23:35:05,165 - root - INFO - After Attack
+2022-02-16 23:35:31,127 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 23:35:32,227 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:35:32,227 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 15.
+2022-02-16 23:35:32,236 - root - INFO - Model MesoInception.
+2022-02-16 23:35:34,176 - root - INFO - After Attack
+2022-02-16 23:36:44,879 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 23:36:45,959 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:36:45,959 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 5.
+2022-02-16 23:36:45,967 - root - INFO - Model MesoInception.
+2022-02-16 23:36:47,926 - root - INFO - After Attack
+2022-02-16 23:37:14,232 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 23:37:15,318 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:37:15,318 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 15.
+2022-02-16 23:37:15,327 - root - INFO - Model MesoInception.
+2022-02-16 23:37:17,426 - root - INFO - After Attack
+2022-02-16 23:38:28,401 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 23:38:29,477 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:38:29,477 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 5.
+2022-02-16 23:38:29,485 - root - INFO - Model MesoInception.
+2022-02-16 23:38:31,703 - root - INFO - After Attack
+2022-02-16 23:38:57,974 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.
+2022-02-16 23:38:59,034 - root - INFO - Testing file: ./file/dfdc_tests.txt.
+2022-02-16 23:38:59,034 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 15.
+2022-02-16 23:38:59,042 - root - INFO - Model MesoInception.
+2022-02-16 23:39:01,032 - root - INFO - After Attack
+2022-02-16 23:40:11,954 - root - INFO - Testing: F1 Score 0.0000, Accuracy 0.0000, AUC 0.0000.

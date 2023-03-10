@@ -1,0 +1,29 @@
+2022-02-19 02:02:04,664 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 02:02:04,665 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 5.
+2022-02-19 02:02:04,682 - root - INFO - Model MesoDeception.
+2022-02-19 02:02:07,756 - root - INFO - Before Attack
+2022-02-19 02:02:58,667 - root - INFO - Testing: F1_WSRT 0.3149, Acc_WSRT 0.3171, AUC_WSRT 0.6109, F1_SP 0.3941, Acc_SP 0.4029, AUC_SP 0.4908
+2022-02-19 02:02:58,668 - root - INFO - Accuracy with SP. Deepfakes: 0.2643 Real: 0.7071 NeuralTextures: 0.2929 Face2Face: 0.3000 FaceSwap: 0.4500
+2022-02-19 02:02:58,668 - root - INFO - Accuracy with WSRT. Deepfakes: 0.1214 Real: 0.9357 NeuralTextures: 0.1286 Face2Face: 0.2143 FaceSwap: 0.1857
+2022-02-19 02:02:58,668 - root - INFO - After Attack
+2022-02-19 02:04:14,103 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 02:04:15,471 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 02:04:15,472 - root - INFO - PGD attack with eps 0.005, alpha 0.0039, and iteration 15.
+2022-02-19 02:04:15,492 - root - INFO - Model MesoDeception.
+2022-02-19 02:04:18,501 - root - INFO - After Attack
+2022-02-19 02:07:56,378 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 02:07:57,737 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 02:07:57,737 - root - INFO - PGD attack with eps 0.010, alpha 0.0039, and iteration 5.
+2022-02-19 02:07:57,755 - root - INFO - Model MesoDeception.
+2022-02-19 02:08:00,861 - root - INFO - After Attack
+2022-02-19 02:09:18,725 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 02:09:21,140 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 02:09:21,140 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 5.
+2022-02-19 02:09:21,157 - root - INFO - Model MesoDeception.
+2022-02-19 02:09:24,212 - root - INFO - After Attack
+2022-02-19 02:10:41,857 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
+2022-02-19 02:10:43,188 - root - INFO - Testing file: ./file/FF++_test.txt.
+2022-02-19 02:10:43,188 - root - INFO - PGD attack with eps 0.020, alpha 0.0039, and iteration 15.
+2022-02-19 02:10:43,206 - root - INFO - Model MesoDeception.
+2022-02-19 02:10:46,271 - root - INFO - After Attack
+2022-02-19 02:14:24,909 - root - INFO - Testing: F1_WSRT 1.0000, Acc_WSRT 1.0000, AUC_WSRT 1.0000.
