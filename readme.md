@@ -6,7 +6,7 @@
   <img src="fig/result.png" width=70% />
 </p>
 
-This is the official pytorch implementation of paper, G.L. Chen and C.C. Hsu, "Jointly Defending DeepFake Manipulation and Adversarial Attack using Decoy Mechanism", accepted by IEEE T-PAMI 2023. In this research, we proposed a novel decoy mechanism based on statistical hypothesis testing against DeepFake manipulation and adversarial attacks. The proposed decoy mechanism successfully defended the common adversarial attacks and indirectly improved the power of hypothesis test to achieve 100% detection accuracy for both white-box and black-box attacks. We demonstrated that the decoy effect can be generalized to compressed and unseen manipulation methods for both DeepFake and attack detection.
+This is the official pytorch implementation of paper, G.L. Chen and C.C. Hsu, "Jointly Defending DeepFake Manipulation and Adversarial Attack using Decoy Mechanism", IEEE T-PAMI 2023. In this research, we proposed a novel decoy mechanism based on statistical hypothesis testing against DeepFake manipulation and adversarial attacks. The proposed decoy mechanism successfully defended the common adversarial attacks and indirectly improved the power of hypothesis test to achieve 100% detection accuracy for both white-box and black-box attacks. We demonstrated that the decoy effect can be generalized to compressed and unseen manipulation methods for both DeepFake and attack detection.
 
 ---
 ## Dataset
