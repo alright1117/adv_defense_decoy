@@ -47,11 +47,11 @@ The code is tested on Ubuntu 20.04, Geforce RTX 3090 * 2, and cuda 10.2.
 ---
 ## Training
 
-Train the vanilla model:
+### Train the vanilla model:
 ```bash
 CUDA_VISIBLE_DEVICES=-1 python3 -B train.py --model_name Xception --train_video_batch 10 --train_img_batch 8 --save_path ./weight/Xception.pt --log_path ./log/Xception.log
 ```
-Train the deceptive model:
+### Train the deceptive model:
 ```bash
 CUDA_VISIBLE_DEVICES=-1 python3 -B train.py --model_name XDeception --train_video_batch 10 --train_img_batch 8 --save_path ./weight/XDeception.pt --log_path ./log/XDeception.log --deception
 ```
