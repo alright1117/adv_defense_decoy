@@ -89,7 +89,7 @@ Optional parameters:
 >```test_root_dir``` : **./data/FF++/raw**&nbsp; - evaluated dataset <br/>
 >```test_file_path``` : **./file/FF++_test10.txt**&nbsp; - evaluated dataset file <br/>
 
-If the deception flag is used, please modify Xception to XDeception and Meso to MesoDeception. The test_root_dir can be "./data/FF++/raw", "./data/FF++/c23", "./data/FF++/c40", "./data/DFDC", "./data/CelebDF". The test_file_path should correspond to test_root_dir.
+If the deception flag is used, please modify Xception to XDeception and Meso to MesoDeception. The test_root_dir can be "./data/FF++/raw", "./data/FF++/c23", "./data/FF++/c40", "./data/DFDC", "./data/CelebDF". The test_file_path should be corresponding to test_root_dir.
 
 #### Evaluate the deceptive model under NES-PGD attack in black-box setting:
 ```bash
